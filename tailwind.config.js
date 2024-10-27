@@ -8,7 +8,7 @@ module.exports = {
       },
       backgroundColor: {
         main:"#151937"
-      }
+      },
     },
   },
   darkMode:"class"  ,
